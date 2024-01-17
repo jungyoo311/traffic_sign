@@ -1,0 +1,12 @@
+path: /Users/jung/Downloads/archive/ts/data
+train: images
+val: images
+
+nc: 4
+
+name: [
+  0: prohibitory,
+  1: danger,
+  2: mandatory,
+  3: other
+]

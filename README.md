@@ -1,2 +1,2 @@
 # traffic_sign
-traffic sign detection using yolo v8
+custom dataset traffic sign detection using yolo v8
