@@ -6,4 +6,4 @@ import numpy as numpy
 import cv2
 
 model = YOLO('yolov8s.pt')
-model.train(data = "dataset.yaml", epochs = 1)
+model.train(data = "dataset.yaml", epochs = 5)
